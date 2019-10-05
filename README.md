@@ -1,2 +1,0 @@
-# VueExploration
-Created with CodeSandbox
